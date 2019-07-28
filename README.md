@@ -1,2 +1,2 @@
-# GOL_DCS_MOD_Installer
-Easy unpacking of GOL Clan DCS CSG mods
+# Harbingers_DCS_Asset_Package
+Easy unpacking of Harbingers DCS Assets and Mods

@@ -1,2 +1,2 @@
 # Harbingers_DCS_Asset_Package
-Easy unpacking of Harbingers DCS Assets and Mods
+Easy access to Harbingers DCS Assets and Mods

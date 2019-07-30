@@ -5,3 +5,4 @@ Easy access to Harbingers DCS Assets and Mods
 
 **30/07/19**
 * Added Mods Section to Wiki
+* Uploaded Initial ME Template

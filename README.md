@@ -3,6 +3,11 @@ Easy access to Harbingers DCS Assets and Mods
 
 **UPDATE HISTORY**
 
+**06/08/19**
+* Updated ME Template
+* Added Basic Training Mission
+* Various additions to Wiki pages
+
 **30/07/19**
 * Added Mods Section to Wiki
 * Uploaded Initial ME Template

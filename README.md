@@ -3,6 +3,9 @@ Easy access to Harbingers DCS Assets and Mods
 
 **UPDATE HISTORY**
 
+**11/08/19**
+* Updated Basic Trainer IMC to solve MP Weather Bug
+
 **09/08/19**
 * Updated Basic Training Mission
 * Added Basic Training CASE 2 Version

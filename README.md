@@ -3,6 +3,9 @@ Easy access to Harbingers DCS Assets and Mods
 
 **UPDATE HISTORY**
 
+**22/08/19**
+* Added MOOSE training mission featuring WIP Airboss Module
+
 **11/08/19**
 * Updated Basic Trainer IMC to solve MP Weather Bug
 

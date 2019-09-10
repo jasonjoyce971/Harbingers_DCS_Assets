@@ -3,6 +3,15 @@ Easy access to Harbingers DCS Assets and Mods
 
 **UPDATE HISTORY**
 
+**10/09/19**
+* Training Missions Complete:
+* Basic Trainer = WYSIWYG
+* Basic Trainer IMC = WYSIWYG with cloud
+* Basic Trainer CASE 3 = WYSIWYG at night
+* Intermediate Trainer = Spawnable live targets
+* Intermediate Trainer IMC = As above with cloud
+* Intermediate Trainer Night = As above at night
+
 **22/08/19**
 * Added MOOSE training mission featuring WIP Airboss Module
 

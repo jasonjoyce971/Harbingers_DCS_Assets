@@ -3,6 +3,9 @@ Easy access to Harbingers DCS Assets and Mods
 
 **UPDATE HISTORY**
 
+**22/12/19**  
+* Total mission library overhaul
+
 **10/09/19**
 * Training Missions Complete:
 * Basic Trainer = WYSIWYG

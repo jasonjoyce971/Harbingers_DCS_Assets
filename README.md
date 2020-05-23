@@ -3,6 +3,9 @@ Easy access to Harbingers DCS Assets and Mods
 
 **UPDATE HISTORY**
 
+**23/05/20**
+* Mission Library Rebuilt for Supercarriers
+
 **22/12/19**  
 * Total mission library overhaul
 
